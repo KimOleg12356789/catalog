@@ -1,0 +1,15 @@
+<svg width="1170" height="178" viewBox="0 0 1170 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_19_2996" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1170" height="178">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1170 0H0V178H1120L1170 128V0Z" fill="#E8BE63"/>
+</mask>
+<g mask="url(#mask0_19_2996)">
+<rect width="1170" height="178" fill="#E8BE63"/>
+<circle cx="1170" cy="89" r="585" fill="url(#paint0_radial_19_2996)" fill-opacity="0.1"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_19_2996" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1170 89) rotate(90) scale(585)">
+<stop stop-color="#EF3E2C"/>
+<stop offset="1" stop-color="#EF3E2C" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
